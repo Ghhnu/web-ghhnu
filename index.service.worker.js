@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1795310347|10057910764';
+const CACHE_VERSION = '1795452995|15813743135';
 /** @type {string} */
 const CACHE_PREFIX = 'Rucoy Copy-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
